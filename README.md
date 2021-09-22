@@ -12,7 +12,9 @@ typora-root-url: assets\img
 
   
 
-<img src="/SITE.png" alt="SITE" style="zoom:75%;" />
+<img src="https://github.com/huygor/hmtl-caixa_de_produtos-/blob/master/assets/img/SITE.png?raw=true" alt="SITE" style="zoom:100%;" />
+
+
 
 
 
